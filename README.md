@@ -1,2 +1,2 @@
-# python_one_string_sokoban
+# Python One String Sokoban
 A working version of the game sokoban in one line of python code.
